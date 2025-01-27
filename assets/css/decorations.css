@@ -473,6 +473,11 @@ footer {
   
 }
 
+.current-work {
+  padding-left: 20px; /* Adds left padding for the list */
+  text-align: left;   /* Ensures the text is left-aligned */
+  margin-top: 10px;
+}
 #hero .btn-about {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
