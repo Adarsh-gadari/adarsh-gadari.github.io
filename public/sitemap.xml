@@ -177,14 +177,5 @@
     <loc>http://localhost:1313/publication/paper-3/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/wowchemy/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
