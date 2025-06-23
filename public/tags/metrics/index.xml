@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metrics | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/metrics/</link>
+      <atom:link href="http://localhost:1313/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Metrics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Metrics</title>
+      <link>http://localhost:1313/tags/metrics/</link>
+    </image>
+    
+    <item>
+      <title>Retinal Layer Segmentation - Boundary vs Mask Labels</title>
+      <link>http://localhost:1313/project/retinal-layer-segmentation-boundary-vs-mask-labels/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/retinal-layer-segmentation-boundary-vs-mask-labels/</guid>
+      <description>&lt;!-- ## Mask vs Boundary Label Training: A Comparative Analysis for Retinal Layer Segmentation --&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The spark for this project was ignited by a question that echoed through the research community after my earlier work on weakly supervised retinal layer segmentation: &lt;em&gt;Why generate images with boundary labels instead of the conventional mask-based approach?&lt;/em&gt; This curiosity set the stage for a journey of rigorous experimentation and discovery.&lt;/p&gt;
+&lt;h2 id=&#34;experimentation&#34;&gt;Experimentation&lt;/h2&gt;
+&lt;p&gt;Determined to find answers, I designed a comprehensive study to compare these two labeling strategies head-to-head. The goal was simple yet ambitious: to empirically test whether boundary-based training could offer tangible advantages over traditional mask-based training, and to see if these benefits would hold across a variety of neural network architectures.&lt;/p&gt;
+&lt;p&gt;The experimental process was both challenging and enlightening. I assembled a diverse suite of UNet architectures, ranging from classic designs to deeper, more complex variants. Each model was trained and evaluated under two regimes: one using detailed boundary labels that highlight the edges of retinal layers, and the other using conventional pixel-wise masks. To ensure fairness, every experiment used identical datasets, standardized training protocols, and carefully controlled variables.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;As the results began to emerge, a clear pattern took shape. Boundary-based training consistently outperformed mask-based training across all tested architectures. The models trained on boundaries not only achieved higher subjective scores—especially in capturing fine anatomical details—but also demonstrated more stable and scalable performance, whether in standalone UNets or within adversarial GAN frameworks. Interestingly, while convolutional neural networks are naturally adept at detecting edges due to their differential kernels, achieving high pixel-level accuracy for boundaries remained a nuanced challenge, reflecting the inherent variability in human grading and inviting a better metric than dice score or mean pixel error.&lt;/p&gt;
+&lt;p&gt;What made these findings particularly exciting was their architecture-agnostic nature. Whether using a simple UNet or a sophisticated GAN-enhanced model, the benefits of boundary training persisted. This robustness suggested that the approach could be widely adopted, offering practical value for both research and clinical deployment.&lt;/p&gt;
+&lt;p&gt;Beyond the technical achievements, this project stands as a testament to the importance of research validation. By proactively addressing questions from the community and designing experiments that go beyond single-model validation, I was able to advance my understanding while supporting real-world applications. The journey from hypothesis to evidence not only deepened my appreciation for experimental rigor but also reinforced the value of curiosity-driven inquiry in shaping the future of medical AI.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This story highlights the evolution from research innovation to research validation, emphasizing the power of thoughtful experimentation and the impact of challenging conventional wisdom in AI-driven medical imaging.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

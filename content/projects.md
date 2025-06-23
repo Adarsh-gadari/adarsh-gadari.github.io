@@ -6,13 +6,17 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
+  background:
+    color: black
+    # image:
+    #   # Add your image background to `assets/media/`.
+    #   filename: blue_bg_flipped.png
 
 # Page sections
 sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project

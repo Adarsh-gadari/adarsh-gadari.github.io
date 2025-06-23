@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automated Detection and Segmentation | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/automated-detection-and-segmentation/</link>
+      <atom:link href="http://localhost:1313/tags/automated-detection-and-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automated Detection and Segmentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Automated Detection and Segmentation</title>
+      <link>http://localhost:1313/tags/automated-detection-and-segmentation/</link>
+    </image>
+    
+  </channel>
+</rss>
