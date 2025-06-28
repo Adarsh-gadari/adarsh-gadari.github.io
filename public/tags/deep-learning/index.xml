@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Hugo Academic CV Theme</title>
+    <title>Deep Learning | Adarsh Gadari</title>
     <link>http://localhost:1313/tags/deep-learning/</link>
       <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
@@ -37,8 +37,10 @@
       <link>http://localhost:1313/project/hypergraphs-neural-networks-and-explainability/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/hypergraphs-neural-networks-and-explainability/</guid>
-      <description>&lt;h2 id=&#34;details-coming-soon&#34;&gt;Details Coming Soon&lt;/h2&gt;
-&lt;h3 id=&#34;thank-you-for-visiting-though&#34;&gt;Thank you for visiting, though!&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;hypergraphs-neural-networks&#34;&gt;Hypergraphs Neural Networks&lt;/h2&gt;
+&lt;p&gt;Hypergraphs extend the concept of traditional graphs by allowing edges—called hyperedges—to connect more than two nodes at once. This unique property makes hypergraphs a powerful tool for modeling complex, higher-order relationships that cannot be captured by simple pairwise connections. In many real-world systems, such as biological networks, social interactions, and collaborative environments, relationships often involve groups of entities interacting simultaneously rather than just pairs.&lt;/p&gt;
+&lt;p&gt;Hypergraph neural networks (HGNNs) are a new class of machine learning models designed to leverage the expressive power of hypergraphs. Unlike standard graph neural networks, which aggregate information along edges connecting two nodes, HGNNs can aggregate and propagate information across hyperedges that link multiple nodes together. This enables them to capture richer structural patterns and dependencies within data.&lt;/p&gt;
+&lt;p&gt;The importance of hypergraph neural networks lies in their ability to model and learn from these higher-order interactions. By doing so, they provide deeper insights into the underlying structure of complex systems, improve predictive performance, and enhance explainability in domains where group relationships are fundamental. As data grows more interconnected and multi-faceted, HGNNs are becoming essential tools for advancing our understanding of higher-order relations in science, technology, and society.&lt;/p&gt;
 </description>
     </item>
     

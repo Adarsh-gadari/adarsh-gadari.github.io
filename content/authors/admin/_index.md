@@ -28,20 +28,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:adarsh.gadari@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Adarsh-gadari
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/adarsh-gadari
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=1SMVyo8AAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-8238-1957
 
 interests:
   - Artificial Intelligence
@@ -199,12 +199,12 @@ Throughout my journey, I have developed expertise in Deep Learning, Generative A
 
 ### What are my educational qualifications?
 
-I am a recent Master’s graduate in Computer Science, passionate about applying AI and machine learning to solve meaningful problems—particularly in healthcare and medical imaging. I hold a Master’s degree in Communication and Signal Processing (Electrical Engineering) from the Indian Institute of Technology Hyderabad (Class of 2018).
+I am a recent Master’s graduate in Computer Science (Class of 2025), passionate about applying AI and machine learning to solve meaningful problems—particularly in healthcare and medical imaging. I hold a Master’s degree in Communication and Signal Processing (Electrical Engineering) from the Indian Institute of Technology Hyderabad (Class of 2018).
 
 ### What is the purpose of this website?
 
 **For collaborators:** I am always open to new ideas and partnerships. I believe the most impactful research happens when we come together as a community to tackle complex problems.
 
-**For employers:** I welcome the opportunity to work together. My experience spans engineering and software development, and my projects demonstrate how I translate ideas into commercial products.
+**For employers:** I welcome the opportunity to work together. I can be helpful in solving computer vision problems using AI/ML and driving businesses through innovative and impacful research and engineering outcomes. 
 
 **For everyone else:** Please feel free to reach out with questions or just to connect. I look forward to meaningful conversations and new connections.

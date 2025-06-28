@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flatscreen | తెలుగు</title>
+    <link>http://localhost:1313/te/tags/flatscreen/</link>
+      <atom:link href="http://localhost:1313/te/tags/flatscreen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flatscreen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>te</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Flatscreen</title>
+      <link>http://localhost:1313/te/tags/flatscreen/</link>
+    </image>
+    
+    <item>
+      <title>True 3D Display: Technological Feasibility of a Flatscreen Solution</title>
+      <link>http://localhost:1313/te/publication/paper-3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/te/publication/paper-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

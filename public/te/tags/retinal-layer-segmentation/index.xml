@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retinal Layer Segmentation | తెలుగు</title>
+    <link>http://localhost:1313/te/tags/retinal-layer-segmentation/</link>
+      <atom:link href="http://localhost:1313/te/tags/retinal-layer-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retinal Layer Segmentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>te</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Retinal Layer Segmentation</title>
+      <link>http://localhost:1313/te/tags/retinal-layer-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>Retinal sublayer segmentation based on deep learning using optical coherence tomography B-Scans: Training multilayer masks vs boundary labels</title>
+      <link>http://localhost:1313/te/publication/paper-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/te/publication/paper-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Retinal Layer Segmentation Using OCT B-Scans: A Novel Approach Based on Pix2Pix Generative Adversarial Network</title>
+      <link>http://localhost:1313/te/publication/paper-1/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/te/publication/paper-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

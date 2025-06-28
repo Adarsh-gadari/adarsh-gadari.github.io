@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Imaging | తెలుగు</title>
+    <link>http://localhost:1313/te/tags/medical-imaging/</link>
+      <atom:link href="http://localhost:1313/te/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Imaging</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>te</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Medical Imaging</title>
+      <link>http://localhost:1313/te/tags/medical-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Retinal Layer Segmentation</title>
+      <link>http://localhost:1313/te/project/retinal-layer-segmentation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/te/project/retinal-layer-segmentation/</guid>
+      <description>&lt;h1 id=&#34;advanced-retinal-layer-segmentation-from-research-innovation-to-commercial-reality&#34;&gt;Advanced Retinal Layer Segmentation: From Research Innovation to Commercial Reality&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The vision for this project was sparked by a pressing need in ophthalmology: how can we make retinal layer segmentation both precise and practical for real-world clinical use? In clinical trials and patient care, accurately segmenting retinal sub-layers is essential for disease monitoring and informed decision-making. Yet, existing methods—whether traditional image processing, graph-based, or deep learning—often falter in real-world settings. Each approach is limited by its dependence on specific data characteristics, and the challenge is compounded by the scarcity of shared datasets and the laborious process of manual annotation.&lt;/p&gt;
+&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
+&lt;p&gt;Determined to overcome these barriers, I set out to bridge the gap between advanced AI research and the everyday needs of clinicians. My journey led me to generative adversarial networks (GANs), whose potential for medical image segmentation was both exciting and promising. By developing a weakly supervised learning strategy that harnessed pseudo-labeling and unlabeled data, I was able to dramatically reduce the reliance on manual annotation. This innovation not only accelerated development but also made the technology more accessible to healthcare providers everywhere.&lt;/p&gt;
+&lt;h2 id=&#34;impact&#34;&gt;Impact&lt;/h2&gt;
+&lt;p&gt;The platform that emerged from this work is both robust and versatile. At its core is a custom GAN architecture, capable of delivering precise segmentation for both single B-scan images and complex volumetric datasets. This dual capability empowers clinicians to gain quick, actionable insights from individual scans or to conduct comprehensive volumetric analyses for deeper understanding.
+Automated reporting features, such as region-wise thickness mapping and export-ready quantitative data, empower clinicians to make informed decisions quickly and confidently. The platform’s outputs meet rigorous medical imaging standards, ensuring reliability in real-world diagnostic settings.&lt;/p&gt;
+&lt;h2 id=&#34;deployement&#34;&gt;Deployement&lt;/h2&gt;
+&lt;p&gt;Bringing this project from concept to commercial reality/ clinical utility required more than technical innovation. It demanded a holistic understanding of clinical workflows, a commitment to rigorous validation, and a focus on real-world impact. The result is a product that not only advances the state of the art in AI-driven retinal analysis but also demonstrates how research can be translated into practical, life-changing solutions.&lt;/p&gt;
+&lt;p&gt;Looking back, this project stands as a testament to the power of interdisciplinary thinking and the importance of bridging research with real-world application.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This story highlights the journey from research to product, emphasizing innovation, collaboration, and real-world impact in medical AI.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retinal sublayer segmentation based on deep learning using optical coherence tomography B-Scans: Training multilayer masks vs boundary labels</title>
+      <link>http://localhost:1313/te/publication/paper-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/te/publication/paper-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

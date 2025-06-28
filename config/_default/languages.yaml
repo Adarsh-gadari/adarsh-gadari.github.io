@@ -8,6 +8,15 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
+# te:
+#   languageCode: te
+#   contentDir: content/te
+#   title: తెలుగు
+#   languageName: తెలుగు
+#   weight: 2
+#   params:
+#     description: మీ వెబ్‌సైట్ గురించి తెలుగులో వివరణ...
+
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
