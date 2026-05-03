@@ -20,6 +20,24 @@ design:
     #   position: center
     #   parallax: false
 sections:
+  - block: markdown
+    content:
+      title: "ARVO 2026 Poster Presentation <span style='color: #ef4444; font-weight: bold;'>New</span>"
+      subtitle: "Presenting our latest work at ARVO 2026"
+      text: |
+        <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 20px; display: flex; justify-content: center; align-items: center; border: 2px solid #333; border-top: 2px solid #333; border-bottom: 2px solid #333;">
+          <div style="width: 95%; max-width: 1400px;">
+            <iframe src="/uploads/Adarsh_ARVO26_poster2.pdf" style="width: 100%; aspect-ratio: 16/9; border: 1px solid #ddd; border-radius: 8px;"></iframe>
+            <div style="text-align: center; margin-top: 15px;">
+              <a href="/uploads/Adarsh_ARVO26_poster2.pdf" download style="padding: 10px 20px; background-color: #059669; color: white; text-decoration: none; border-radius: 5px; display: inline-block;">
+                Download Poster
+              </a>
+            </div>
+          </div>
+        </div>
+    design:
+      spacing:
+        padding: ["0", 0, "0", 0]
   - block: resume-biography-3
     # design:
     #   css_class: "bio-white-text"

@@ -17,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Professional
+role: Machine Learning Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Pittsburgh
-    url: https://openai.com/
+    url: https://www.pitt.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,7 +47,7 @@ interests:
   - Artificial Intelligence
   - Computer Vision
   - Representation learning 
-  - AI/ML model deployement
+  - AI/ML model deployment
 
 # education:
 #   - area: PhD Artificial Intelligence
