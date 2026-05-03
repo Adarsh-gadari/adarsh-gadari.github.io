@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/deep-learning/</loc>
-    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/ez-rpe-bm-2026/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/ellipsoid-zone/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/geographic-atrophy/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/manuscript/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/medical-imaging/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/oct/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/experimentation/</loc>
@@ -38,16 +74,48 @@
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/choroid-vessel-segmentation/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/cvi/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/choroid-resunet-2025/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/drusen-segmentation/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/gan/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/label-free-learning/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/resunet/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/synthetic-ground-truth/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/drusen-synthetic-2025/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/clinical-deployement/</loc>
@@ -63,22 +131,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/hypergraphs-neural-networks-and-explainability/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/medical-imaging/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/oct/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,10 +170,6 @@
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/cvi/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/tags/heyex-appway/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,10 +184,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/supervised-learning/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/gan/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>

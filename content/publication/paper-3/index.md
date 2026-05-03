@@ -29,7 +29,7 @@ tags:
   - Technology
   - Thesis
 
-featured: true
+featured: false
 
 url_pdf: ""
 url_code: ""

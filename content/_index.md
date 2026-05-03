@@ -22,9 +22,17 @@ design:
 sections:
   - block: markdown
     content:
-      title: "ARVO 2026 Poster Presentation <span style='color: #ef4444; font-weight: bold;'>New</span>"
-      subtitle: "Presenting our latest work at ARVO 2026"
       text: |
+        <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 12px 14px; max-width: 1200px; margin: 0 auto; padding: 4px 20px 14px;">
+          <a href="/uploads/Adarsh_ARVO26_poster2.pdf" style="display: inline-flex; align-items: center; gap: 10px; padding: 8px 18px; background: linear-gradient(90deg, #064e3b 0%, #047857 50%, #064e3b 100%); border: 1px solid rgba(110,231,183,0.45); border-radius: 999px; box-shadow: 0 4px 16px rgba(4,120,87,0.35); text-decoration: none;">
+            <span style="background: #ef4444; color: #ffffff; font-weight: 800; font-size: 0.62rem; padding: 3px 9px; border-radius: 999px; letter-spacing: 1.2px; text-transform: uppercase;">New</span>
+            <span style="color: #ffffff; font-weight: 600; font-size: 0.92rem; white-space: nowrap;">ARVO 2026 Poster →</span>
+          </a>
+          <a href="/uploads/Adarsh-Gadari-CV.pdf" style="display: inline-flex; align-items: center; gap: 10px; padding: 8px 18px; background: linear-gradient(90deg, #1e1b4b 0%, #4338ca 50%, #1e1b4b 100%); border: 1px solid rgba(165,180,252,0.45); border-radius: 999px; box-shadow: 0 4px 16px rgba(67,56,202,0.35); text-decoration: none;">
+            <span style="background: #fbbf24; color: #1e1b4b; font-weight: 800; font-size: 0.62rem; padding: 3px 9px; border-radius: 999px; letter-spacing: 1.2px; text-transform: uppercase;">PhD 2027</span>
+            <span style="color: #ffffff; font-weight: 600; font-size: 0.92rem; white-space: nowrap;">Applying — CS &amp; AI · Download CV ↓</span>
+          </a>
+        </div>
         <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 20px; display: flex; justify-content: center; align-items: center; border: 2px solid #333; border-top: 2px solid #333; border-bottom: 2px solid #333;">
           <div style="width: 95%; max-width: 1400px;">
             <iframe src="/uploads/Adarsh_ARVO26_poster2.pdf" style="width: 100%; aspect-ratio: 16/9; border: 1px solid #ddd; border-radius: 8px;"></iframe>

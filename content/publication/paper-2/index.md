@@ -30,7 +30,7 @@ tags:
   - Deep Learning
   - Medical Imaging
 
-featured: true
+featured: false
 
 url_pdf: ""
 url_code: ""

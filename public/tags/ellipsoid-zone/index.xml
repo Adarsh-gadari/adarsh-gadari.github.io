@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ellipsoid Zone | Adarsh Gadari</title>
+    <link>http://localhost:1313/tags/ellipsoid-zone/</link>
+      <atom:link href="http://localhost:1313/tags/ellipsoid-zone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ellipsoid Zone</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
+      <title>Ellipsoid Zone</title>
+      <link>http://localhost:1313/tags/ellipsoid-zone/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning–Based Automated Segmentation and Quantification of Ellipsoid Zone and RPE–Bruch&#39;s Membrane Complex in Healthy Subjects and Geographic Atrophy</title>
+      <link>http://localhost:1313/publication/ez-rpe-bm-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ez-rpe-bm-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/deep-learning/</link>
       <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>Deep Learning</title>
       <link>http://localhost:1313/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning–Based Automated Segmentation and Quantification of Ellipsoid Zone and RPE–Bruch&#39;s Membrane Complex in Healthy Subjects and Geographic Atrophy</title>
+      <link>http://localhost:1313/publication/ez-rpe-bm-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ez-rpe-bm-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Retinal Layer Segmentation - Boundary vs Mask Labels</title>

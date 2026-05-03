@@ -44,43 +44,29 @@ profiles:
     url: https://orcid.org/0009-0008-8238-1957
 
 interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Representation learning 
-  - AI/ML model deployment
+  - Medical Imaging & OCT Deep Learning
+  - Generative Models (LLMs, Transformers, SMILES)
+  - Self-/Pseudo-Supervised & Label-Free Learning
+  - Clinical AI Deployment (Azure, ONNX, FDA 21 CFR Part 11)
+  - Explainability & Hypergraph Neural Networks
 
-# education:
-#   - area: PhD Artificial Intelligence
-#     institution: Stanford University
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-#     button:
-#       text: 'Read Thesis'
-#       url: 'https://example.com'
-#   - area: MEng Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       GPA: 3.8/4.0
-
-#       Courses included:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - area: BSc Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       GPA: 3.4/4.0
-      
-#       Courses included:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+education:
+  - area: M.S. in Computer Science
+    institution: University of North Carolina at Greensboro
+    date_start: 2022-08-01
+    date_end: 2025-05-31
+    summary: |
+      Thesis: *Exploring Explainability of Hypergraph Neural Networks using Mixed-Integer Programming.*
+  - area: M.Tech. in Electrical Engineering (Communication & Signal Processing)
+    institution: Indian Institute of Technology Hyderabad
+    date_start: 2016-08-01
+    date_end: 2018-05-31
+    summary: |
+      Thesis: *Towards True 3D Display — Technological Feasibility of a Flatscreen Solution.*
+  - area: B.E. in Electronics and Communication
+    institution: Osmania University
+    date_start: 2011-08-01
+    date_end: 2015-05-31
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -185,26 +171,8 @@ Hello and welcome! I’m a Machine Learning Research Engineer with 9+ years tran
 
 For nearly a decade, I have immersed myself in the world of Artificial Intelligence — working with both structured and unstructured data, across academia and industry. I have always embraced opportunities to learn, grow, and contribute, believing that every challenge is a chance to sharpen my skills and make a difference. I find myself at the intersection of technology that addresses today’s pressing challenges and science that dares to question and expand the boundaries of human understanding. This dual passion fuels my drive to be both a researcher and a problem-solver, convinced that technological innovation can guide us toward a brighter future.
 
-### Why am I interested in solving current challenges?
+### Why healthcare AI?
 
-Dr. A.P.J. Abdul Kalam once shared that one of his proudest achievements was providing lightweight prosthetics—originally designed for space technology—to children with disabilities. ([news article](https://www.business-standard.com/article/news-ians/kalam-concerned-about-disabled-developed-lightweight-prosthetics-115072801304_1.html)) Stories like this remind me that technology, when applied thoughtfully, can transform lives. I’ve also witnessed firsthand how human error and systemic challenges can affect patient care, especially in developing countries. This motivates me to create robust, precise technological solutions that truly make a difference.
+I’ve seen firsthand how human error, annotation cost, and infrastructure gaps shape the quality of patient care — especially in lower-resource settings. That’s why a lot of my work has been label-free, deployable, and audit-ready: a Cirrus-OCT segmentation framework that needs no manual annotations and is now live on UPMC MyApps; an AMD referral tool deployed across a 10+ optometrist network in Pennsylvania; and clinical AI built to FDA 21 CFR Part 11 standards. Dr. A.P.J. Abdul Kalam once described providing lightweight prosthetics to children with disabilities — originally designed for space — as one of his proudest achievements. ([news article](https://www.business-standard.com/article/news-ians/kalam-concerned-about-disabled-developed-lightweight-prosthetics-115072801304_1.html)) That kind of *redirected* technology, in service of people who need it most, is the work I want to keep doing.
 
-### Why am I interested in redefining human belief or challenging current knowledge?
-
-Have you seen the series "Genius," where Albert Einstein isolates a light wave to unravel its mysteries, or "A Beautiful Mind," which captures John Nash’s relentless passion? Or perhaps "The Imitation Game," where Alan Turing’s work saves lives, or "Minority Report," which explores futuristic technology and philosophical questions? These stories inspire me to think deeply, pursue knowledge fearlessly, and use science to make a meaningful impact.
-
-### What are my skills?
-
-Throughout my journey, I have developed expertise in Deep Learning, Generative AI, Medical Image Segmentation, Hypergraph Neural Networks, Explainability, Signal Processing, and Human-Computer Interaction, among others.
-
-### What are my educational qualifications?
-
-I am a Master's-trained ML engineer with 9+ years across industry and clinical research, passionate about applying AI and machine learning to solve meaningful problems — particularly in healthcare and medical imaging. I hold a Master of Science in Computer Science from the University of North Carolina at Greensboro (Class of 2025) and a Master’s degree in Communication and Signal Processing (Electrical Engineering) from the Indian Institute of Technology Hyderabad (Class of 2018).
-
-### What is the purpose of this website?
-
-**For collaborators:** I am always open to new ideas and partnerships. I believe the most impactful research happens when we come together as a community to tackle complex problems.
-
-**For employers:** I welcome the opportunity to work together. I can be helpful in solving computer vision problems using AI/ML and driving businesses through innovative and impactful research and engineering outcomes. 
-
-**For everyone else:** Please feel free to reach out with questions or just to connect. I look forward to meaningful conversations and new connections.
+*Always happy to talk about interesting research, projects, or collaborations — email or LinkedIn is the best way to reach me.*

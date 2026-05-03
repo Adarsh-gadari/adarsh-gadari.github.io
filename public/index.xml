@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Deep Learning–Based Automated Segmentation and Quantification of Ellipsoid Zone and RPE–Bruch&#39;s Membrane Complex in Healthy Subjects and Geographic Atrophy</title>
+      <link>http://localhost:1313/publication/ez-rpe-bm-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ez-rpe-bm-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Retinal Layer Segmentation - Boundary vs Mask Labels</title>
       <link>http://localhost:1313/project/retinal-layer-segmentation-boundary-vs-mask-labels/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
@@ -30,6 +38,22 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;This story highlights the evolution from research innovation to research validation, emphasizing the power of thoughtful experimentation and the impact of challenging conventional wisdom in AI-driven medical imaging.&lt;/em&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Deep-Learning-Based Choroid Vessel Segmentation Using Feature Maps of ResUNet GAN Autoencoder Architecture</title>
+      <link>http://localhost:1313/publication/choroid-resunet-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/choroid-resunet-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Ground-truth Image-based Drusen Segmentation in OCT Images: A Novel Approach Based on Sinusoidal Image Deformations and Generative Adversarial Networks</title>
+      <link>http://localhost:1313/publication/drusen-synthetic-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/drusen-synthetic-2025/</guid>
+      <description></description>
     </item>
     
     <item>

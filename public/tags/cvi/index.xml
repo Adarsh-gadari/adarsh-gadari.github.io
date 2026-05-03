@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/cvi/</link>
       <atom:link href="http://localhost:1313/tags/cvi/index.xml" rel="self" type="application/rss+xml" />
     <description>CVI</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>CVI</title>
       <link>http://localhost:1313/tags/cvi/</link>
     </image>
+    
+    <item>
+      <title>Deep-Learning-Based Choroid Vessel Segmentation Using Feature Maps of ResUNet GAN Autoencoder Architecture</title>
+      <link>http://localhost:1313/publication/choroid-resunet-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/choroid-resunet-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Choroid thickness and CVI Calculation</title>

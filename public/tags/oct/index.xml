@@ -5,12 +5,36 @@
     <link>http://localhost:1313/tags/oct/</link>
       <atom:link href="http://localhost:1313/tags/oct/index.xml" rel="self" type="application/rss+xml" />
     <description>OCT</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_4bc81f2edf496b34.png</url>
       <title>OCT</title>
       <link>http://localhost:1313/tags/oct/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning–Based Automated Segmentation and Quantification of Ellipsoid Zone and RPE–Bruch&#39;s Membrane Complex in Healthy Subjects and Geographic Atrophy</title>
+      <link>http://localhost:1313/publication/ez-rpe-bm-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ez-rpe-bm-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-Learning-Based Choroid Vessel Segmentation Using Feature Maps of ResUNet GAN Autoencoder Architecture</title>
+      <link>http://localhost:1313/publication/choroid-resunet-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/choroid-resunet-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Ground-truth Image-based Drusen Segmentation in OCT Images: A Novel Approach Based on Sinusoidal Image Deformations and Generative Adversarial Networks</title>
+      <link>http://localhost:1313/publication/drusen-synthetic-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/drusen-synthetic-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Retinal Layer Segmentation</title>
