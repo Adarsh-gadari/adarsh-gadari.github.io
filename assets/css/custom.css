@@ -9,6 +9,11 @@
 /* Aurora background */
 body {
   background: transparent !important;
+}
+
+.page-body,
+.page-header,
+.page-footer {
   position: relative;
   z-index: 1;
 }
