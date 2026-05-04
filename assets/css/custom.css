@@ -6,6 +6,13 @@
 {{ $colors := slice "#f3b226" "#e63946" "#457b9d" "#2a9d8f" "#f4a261" "#e9c46a" "#264653" }}
 {{ $chosen := index $colors (mod (now.UnixNano) (len $colors)) }}
 
+/* Aurora background */
+body {
+  background: transparent !important;
+  position: relative;
+  z-index: 1;
+}
+
 .bio-white-text, .bio-white-text * {
   color: #f2d348 !important;
 }

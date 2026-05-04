@@ -66,7 +66,7 @@
 
   
     
-    <link href="/css/custom.min.b87f2ec0a60bcee1df374668dd89b144d3fc1f6988878a6f5057a69133dd7f2e.css" rel="stylesheet" />
+    <link href="/css/custom.min.a62b8f084c67be7c62a1494470aa4dd6fe79fd8821a466c636a419a338dd2a15.css" rel="stylesheet" />
   
 
   <script>
@@ -235,35 +235,6 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
     
       
       
@@ -283,22 +254,6 @@
         
       
     
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
@@ -360,6 +315,51 @@
         
       
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -497,6 +497,100 @@
     
       
       <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+    
+      
+      <style>
+#aurora-bg {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+ 
+html.dark #aurora-bg {
+  background: #0a0a14;
+}
+
+html.dark #aurora-bg::before {
+  content: '';
+  position: absolute;
+  width: 160%; height: 160%;
+  top: -30%; left: -30%;
+  background:
+    radial-gradient(ellipse 70% 50% at 20% 40%, rgba(13,148,136,0.45) 0%, transparent 65%),
+    radial-gradient(ellipse 60% 55% at 75% 25%, rgba(67,56,202,0.5) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 60% at 55% 70%, rgba(99,102,241,0.35) 0%, transparent 60%),
+    radial-gradient(ellipse 55% 40% at 10% 80%, rgba(20,184,166,0.3) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 50% at 90% 60%, rgba(109,40,217,0.3) 0%, transparent 55%);
+  animation: aurora-drift 18s ease-in-out infinite alternate;
+}
+
+html.dark #aurora-bg::after {
+  content: '';
+  position: absolute;
+  width: 160%; height: 160%;
+  top: -30%; left: -30%;
+  background:
+    radial-gradient(ellipse 65% 45% at 80% 55%, rgba(6,182,212,0.25) 0%, transparent 60%),
+    radial-gradient(ellipse 55% 50% at 30% 15%, rgba(79,70,229,0.35) 0%, transparent 60%),
+    radial-gradient(ellipse 45% 55% at 60% 85%, rgba(45,212,191,0.2) 0%, transparent 55%);
+  animation: aurora-drift-reverse 22s ease-in-out infinite alternate;
+}
+
+ 
+html:not(.dark) #aurora-bg {
+  background: #f8fafc;
+}
+
+html:not(.dark) #aurora-bg::before {
+  content: '';
+  position: absolute;
+  width: 160%; height: 160%;
+  top: -30%; left: -30%;
+  background:
+    radial-gradient(ellipse 70% 50% at 15% 35%, rgba(13,148,136,0.22) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 55% at 78% 22%, rgba(99,102,241,0.2) 0%, transparent 58%),
+    radial-gradient(ellipse 55% 60% at 55% 72%, rgba(167,139,250,0.18) 0%, transparent 58%),
+    radial-gradient(ellipse 50% 45% at 88% 65%, rgba(6,182,212,0.16) 0%, transparent 55%),
+    radial-gradient(ellipse 45% 50% at 8%  78%, rgba(45,212,191,0.15) 0%, transparent 55%);
+  animation: aurora-drift 18s ease-in-out infinite alternate;
+}
+
+html:not(.dark) #aurora-bg::after {
+  content: '';
+  position: absolute;
+  width: 160%; height: 160%;
+  top: -30%; left: -30%;
+  background:
+    radial-gradient(ellipse 65% 45% at 70% 50%, rgba(129,140,248,0.14) 0%, transparent 58%),
+    radial-gradient(ellipse 50% 55% at 28% 18%, rgba(20,184,166,0.16) 0%, transparent 55%),
+    radial-gradient(ellipse 55% 50% at 50% 88%, rgba(79,70,229,0.13) 0%, transparent 55%);
+  animation: aurora-drift-reverse 22s ease-in-out infinite alternate;
+}
+
+@keyframes aurora-drift {
+  0%   { transform: translate(0%, 0%) rotate(0deg) scale(1); }
+  33%  { transform: translate(4%, -3%) rotate(2deg) scale(1.04); }
+  66%  { transform: translate(-3%, 5%) rotate(-1.5deg) scale(0.97); }
+  100% { transform: translate(5%, 2%) rotate(3deg) scale(1.06); }
+}
+
+@keyframes aurora-drift-reverse {
+  0%   { transform: translate(0%, 0%) rotate(0deg) scale(1.05); }
+  33%  { transform: translate(-5%, 4%) rotate(-2deg) scale(0.98); }
+  66%  { transform: translate(4%, -3%) rotate(1deg) scale(1.07); }
+  100% { transform: translate(-3%, -5%) rotate(-3deg) scale(1); }
+}
+</style>
+
+<div id="aurora-bg"></div>
 
       
     
@@ -684,13 +778,9 @@
     <h2>Latest</h2>
     <ul>
       
-      <li><a href="/publication/">Publications</a></li>
-      
       <li><a href="/publication/ez-rpe-bm-2026/">Deep Learning–Based Automated Segmentation and Quantification of Ellipsoid Zone and RPE–Bruch&#39;s Membrane Complex in Healthy Subjects and Geographic Atrophy</a></li>
       
       <li><a href="/project/retinal-layer-segmentation-boundary-vs-mask-labels/">Retinal Layer Segmentation - Boundary vs Mask Labels</a></li>
-      
-      <li><a href="/project/">Projects</a></li>
       
       <li><a href="/publication/drusen-synthetic-2025/">Synthetic Ground-truth Image-based Drusen Segmentation in OCT Images: A Novel Approach Based on Sinusoidal Image Deformations and Generative Adversarial Networks</a></li>
       
@@ -703,6 +793,10 @@
       <li><a href="/project/retinal-layer-segmentation/">Retinal Layer Segmentation</a></li>
       
       <li><a href="/project/hypergraphs-neural-networks-and-explainability/">Hypergraphs, Neural Networks and explainability</a></li>
+      
+      <li><a href="/project/choroid-thickness-and-cvi-calculation/">Choroid thickness and CVI Calculation</a></li>
+      
+      <li><a href="/publication/paper-1/">Robust Retinal Layer Segmentation Using OCT B-Scans: A Novel Approach Based on Pix2Pix Generative Adversarial Network</a></li>
       
     </ul>
     
